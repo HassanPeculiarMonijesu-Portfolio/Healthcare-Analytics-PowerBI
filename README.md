@@ -83,7 +83,7 @@ A comprehensive Power BI dashboard analyzing 6 years of hospital data from Saint
 | File | Description |
 |------|-------------|
 |🔗[Healthcare_data.pbix](https://github.com/HassanPeculiarMonijesu-Portfolio/Healthcare-Analytics-PowerBI/blob/1817a8b6d0ee8d9090baca10dc87c0622db564ec/Healthcare%20data.pbix) | Full Power BI dashboard file |
-| `Saint_Mary_Hospital_Report.pdf` | Written insights report |
+|🔗[Saint_Mary_Hospital_Report.pdf](https://github.com/HassanPeculiarMonijesu-Portfolio/Healthcare-Analytics-PowerBI/blob/ac1a450b2c9b710fa34847820d6e361a8bc7b1bf/Saint%20Mary%20Hospital%20Data%20Insights.pdf) | Written insights report |
 | `screenshots/` | Dashboard previews |
 
 ---
