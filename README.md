@@ -13,6 +13,7 @@ Power BI dashboard analyzing 6 years of hospital data across 55,000 patients and
 A comprehensive Power BI dashboard analyzing 6 years of hospital data from Saint Mary Hospital. The project uncovers patient demographics, medical condition trends, billing performance, and insurance dependency across 55,000 patients and $1.4 billion in revenue.
 
 ---
+![HEALTHCARE DASHBOARD](https://github.com/pecuiar45-web/Hassan-PeculiarPortfolio.io/blob/3bae2d057f023afe1c82ba1cdc6f124c5eddbf8a/28.11.2025_17.28.38_REC.png)
 
 ## 🔢 Key Metrics
 
